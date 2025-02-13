@@ -1,3 +1,5 @@
+Este projeto foi desenvolvido no âmbito da disciplina de Informática Industrial do curso de engenharia elétrica da UFCG.
+
 # HeartSound Monitor
 
 ## Descrição do Projeto
