@@ -34,12 +34,12 @@ Principais Funcionalidades
 
 ## Fluxo de Funcionamento
 
-1️- O médico ou paciente captura o som cardíaco usando um dispositivo de captura.
+1️ O médico ou paciente captura o som cardíaco usando um dispositivo de captura.
 
-2️- O áudio é enviado para o servidor, onde passa por processamento e análise.
+2️ O áudio é enviado para o servidor, onde passa por processamento e análise.
 
-3️- O sistema aplica algoritmos para detectar possíveis anomalias.
+3️ O sistema aplica algoritmos para detectar possíveis anomalias.
 
-4️- Os resultados são armazenados no banco de dados e disponibilizados no aplicativo e no dashboard.
+4️ Os resultados são armazenados no banco de dados e disponibilizados no aplicativo e no dashboard.
 
-5️- O médico pode acessar relatórios detalhados para avaliação e diagnóstico.
+5️ O médico pode acessar relatórios detalhados para avaliação e diagnóstico.
